@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <Compile Remove="DCP25.cs" />
+    <Compile Remove="DCP29.cs" />
     <Compile Remove="ProblemFive.cs" />
     <Compile Remove="ProblemFour.cs" />
     <Compile Remove="ProblemFourAnotherExample.cs" />
